@@ -9,8 +9,8 @@ Jinning's personal repository for power system analysing using LTB.
 
 # Table of Content
 
-1. [Power Flow Comparasion](./src/pflow_benchmark/pflow_compare.ipynb)
-2. [Frequency Regulation using IBR](./src/agc/agc_ibr.ipynb)
+1. [Power Flow Comparasion](./src/pflow_benchmark/pflow_compare.ipynb), compare power flow results cross different solvers.
+2. [Frequency Regulation with IBR](./src/agc/agc_ibr.ipynb), from SFR capacity procurement in real-time economic dispatch to detailed AGC action in time-domain simulation.
 
 # FAQ
 
