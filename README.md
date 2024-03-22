@@ -6,3 +6,14 @@
 [![HitCount](https://hits.dwyl.com/jinningwang/psal.svg)](https://hits.dwyl.com/jinningwang/psal)
 
 Jinning's personal repository for power system analysing using LTB.
+
+# Table of Content
+
+1. [Power Flow Comparasion](./src/pflow_benchmark/pflow_compare.ipynb)
+2. [Frequency Regulation using IBR](./src/agc/agc_ibr.ipynb)
+
+# FAQ
+
+Q: Why are my local running results different from yours?
+
+A: There can be three possible reasons: 1) changes in the case files, 2) changes in the code, 3) differences in the versions of key packages.
