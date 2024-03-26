@@ -19,3 +19,13 @@ Jinning's personal repository for power system analysing using LTB.
 Q: Why are my local running results different from yours?
 
 A: There can be three possible reasons: 1) changes in the case files, 2) changes in the code, 3) differences in the versions of key packages.
+
+# Release Notes
+
+This repository uses git tags as versioning.
+Check [Tags](https://github.com/jinningwang/psal/tags) for more details.
+
+## Pre-v0.1
+
+### v0.0.1
+Initial release.
