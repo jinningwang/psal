@@ -22,8 +22,14 @@ A: There can be three possible reasons: 1) changes in the case files, 2) changes
 
 # Release Notes
 
-This repository uses git tags as versioning.
+This repository uses setuptools_scm as versioning.
 Check [Tags](https://github.com/jinningwang/psal/tags) for more details.
+
+Check the version by running:
+
+```bash
+python -m setuptools_scm
+```
 
 ## Pre-v0.1
 
