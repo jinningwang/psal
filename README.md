@@ -9,11 +9,11 @@ Jinning's personal repository for power system analysing using LTB.
 
 # Table of Content
 
-1. [AMS DCOPF Benchmark](./src/ltb_benchmark/ams_benchmark.ipynb), benchmark of AMS DCOPF.
-1. [ANDES PFlow Benchmark](./src/ltb_benchmark/andes_benchmark.ipynb), benchmark of ANDES power flow.
-1. [Power Flow Comparasion](./src/pflow_benchmark/pflow_compare.ipynb), compare power flow results cross different solvers.
-1. [Frequency Regulation with IBR](./src/agc/agc_ibr.ipynb), from SFR capacity procurement in real-time economic dispatch to detailed AGC action in time-domain simulation.
-1. [Discussion 386](./src/discussion/discussion386.ipynb), details on ANDES Discussion #386.
+1. [AMS DCOPF Benchmark](./src/notes/ltb_benchmark/ams_benchmark.ipynb), benchmark of AMS DCOPF.
+1. [ANDES PFlow Benchmark](./src/notes/ltb_benchmark/andes_benchmark.ipynb), benchmark of ANDES power flow.
+1. [Power Flow Comparasion](./src/notes/pflow_benchmark/pflow_compare.ipynb), compare power flow results cross different solvers.
+1. [Frequency Regulation with IBR](./src/notes/agc/agc_ibr.ipynb), from SFR capacity procurement in real-time economic dispatch to detailed AGC action in time-domain simulation.
+1. [Discussion 386](./src/notes/discussion/discussion386.ipynb), details on ANDES Discussion #386.
 
 # FAQ
 
