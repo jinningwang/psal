@@ -9,8 +9,9 @@ Jinning's personal repository for power system analysing using LTB.
 
 # Table of Content
 
+1. [ANDES PFlow Benchmark](./src/ltb_benchmark/andes_benchmark.ipynb), benchmark of power flow solvers in ANDES.
 1. [Power Flow Comparasion](./src/pflow_benchmark/pflow_compare.ipynb), compare power flow results cross different solvers.
-2. [Frequency Regulation with IBR](./src/agc/agc_ibr.ipynb), from SFR capacity procurement in real-time economic dispatch to detailed AGC action in time-domain simulation.
+1. [Frequency Regulation with IBR](./src/agc/agc_ibr.ipynb), from SFR capacity procurement in real-time economic dispatch to detailed AGC action in time-domain simulation.
 
 # FAQ
 
