@@ -161,3 +161,6 @@ cython_debug/
 
 # MacOS store
 .DS_Store
+
+# pglib-opf cases
+/src/ams_benchmark/pglib-opf/*
