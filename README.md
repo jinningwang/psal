@@ -33,5 +33,8 @@ Check the version by running:
 python -m setuptools_scm
 ```
 
+### v0.0.2
+Add two ANDES discussions notes: Discussion #386 and Discussion #471.
+
 ### v0.0.1
 Initial release.
