@@ -13,6 +13,7 @@ Jinning's personal repository for power system analysing using LTB.
 1. [ANDES PFlow Benchmark](./src/ltb_benchmark/andes_benchmark.ipynb), benchmark of ANDES power flow.
 1. [Power Flow Comparasion](./src/pflow_benchmark/pflow_compare.ipynb), compare power flow results cross different solvers.
 1. [Frequency Regulation with IBR](./src/agc/agc_ibr.ipynb), from SFR capacity procurement in real-time economic dispatch to detailed AGC action in time-domain simulation.
+1. [Discussion 386](./src/discussion/discussion386.ipynb), details on ANDES Discussion #386.
 
 # FAQ
 
@@ -30,8 +31,6 @@ Check the version by running:
 ```bash
 python -m setuptools_scm
 ```
-
-## Pre-v0.1
 
 ### v0.0.1
 Initial release.
