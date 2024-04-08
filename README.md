@@ -33,6 +33,9 @@ Check the version by running:
 python -m setuptools_scm
 ```
 
+### v0.0.3
+Prepare 2024 LTB demo data.
+
 ### v0.0.2
 Add two ANDES discussions notes: Discussion #386 and Discussion #471.
 
