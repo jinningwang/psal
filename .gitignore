@@ -167,3 +167,7 @@ cython_debug/
 
 # ANDES output file
 *_out.csv
+*_out_cut.csv
+
+# screen recording
+*.mov
